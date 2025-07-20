@@ -17,7 +17,7 @@ Our software solution is a Proof of Concept (PoC) designed to efficiently enumer
 
 ### For Linux
 ```
-git clone https://github.com/prakhar0x01/Tornet_Granted.git
+git clone https://github.com/darshanPC25/TornetGranted.git
 cd Tornet_Granted
 pip install -r requirements.txt
 apt install tor
