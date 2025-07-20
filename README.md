@@ -18,7 +18,7 @@ Our software solution is a Proof of Concept (PoC) designed to efficiently enumer
 ### For Linux
 ```
 git clone https://github.com/darshanPC25/TornetGranted.git
-cd Tornet_Granted
+cd TornetGranted
 pip install -r requirements.txt
 apt install tor
 apt install exiftool
@@ -33,8 +33,8 @@ systemctl start tor
 -----
 ### For Windows
 ```
-git clone https://github.com/prakhar0x01/Tornet_Granted.git
-cd Tornet_Granted
+git clone https://github.com/darshanPC25/TornetGranted.git
+cd TornetGranted
 pip install -r requirements.txt
 ```
 **Download the latest version of TOR & EXIFtool**
